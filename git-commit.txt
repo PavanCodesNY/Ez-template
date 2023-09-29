@@ -1,4 +1,4 @@
-git remote add origin <remote_repo_url>
+git remote set-url origin <repo-url>                                                                                    
 git add *
 git commit -m "update"
 git branch -M "branch-name"
